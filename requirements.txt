@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+pillow
+opencv-python-headless
+reportlab
+groq
+google-generativeai
